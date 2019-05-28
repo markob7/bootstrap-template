@@ -10,7 +10,7 @@ To get started, just download the files from the repository and you are ready to
 
 * [Bootstrap](https://getbootstrap.com) - v4.3.1
 * [Tether](http://tether.io) - v1.3.3
-* [jQuery](https://jquery.com) - v3.4.1
+* [jQuery](https://jquery.com) - v3.4.0
 
 ## Acknowledgments
 
